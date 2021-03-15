@@ -6,5 +6,5 @@
 
 -💬 Ask me about Development regarding Discord and Bot Development
 
--🧞 How to reach me: https://discord.gg/TAZzp8RQPb
+-🧞 How to reach me: https://discord.gg/wetxR93SFZ
 
