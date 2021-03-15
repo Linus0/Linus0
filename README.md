@@ -14,5 +14,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Linus0&repo=discord-rpc)](https://github.com/Linus0/discord-rpc)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d8b86455-e95f-4074-9254-03476183e98a/deploy-status)](https://app.netlify.com/sites/developmentsitegwop/deploys)
-
+https://www.gwopdevelopment.com/
