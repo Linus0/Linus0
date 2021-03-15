@@ -12,4 +12,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linus0&layout=compact)](https://github.com/Linus0)
 
-[![Readm Card](https://github-readme-stats.vercel.app/api/pin/?username=Linus0&repo=discord-rpc)](https://github.com/Linus0/discord-rpc)
